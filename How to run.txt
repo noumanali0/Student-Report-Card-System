@@ -1,0 +1,5 @@
+1: You have JDK installed on your computer (Java Development Kit)
+2: You have mysql installed on your computer as you can look up your database repeatedly. Also you have set database and table names in java classess 
+3: compile all .java files first using cammand (Javac *.java)
+4: Run Main class file using cammand (Student.class) to run the project 
+5: Finally Project is on running mode.
